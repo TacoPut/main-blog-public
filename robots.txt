@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: http://localhost:1313/main-blog-public/sitemap.xml
+Sitemap: https://tacoput.github.io/main-blog-public/sitemap.xml
