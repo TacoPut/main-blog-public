@@ -1,1 +1,1 @@
-# main-blog-public
+# Main Blog Public
