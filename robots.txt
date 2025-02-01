@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://tacoput.github.io/main-blog-public/sitemap.xml
